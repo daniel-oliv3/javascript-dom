@@ -11,6 +11,33 @@ O Modelo de Objeto de Documento (DOM) é uma interface de programação para doc
 - Ex: javascript-dom-01
 
 
+### 2 - AMBIENTE DO BROWSER.
+## Ambiente do Browser.
+
+- O JavaScript foi criado originalmente para web.
+- Já vimos como inserir JS numa página web.
+- O ambiente onde o JS é executado disponibiliza funcionalidades extras.
+
+## Browser.
+
+    (Para além de interpretar HTML e CSS)
+
+    window
+    |
+    |_DOM (Document Object Model) - Acesso aos elementos HTML que existem na página
+    |       O DOM representa o conteúdo da página na forma de objetos que podemos modificar
+    |       O 'document' é o principal ponto de entrada para modificar o conteúdo do HTML.
+    |
+    |_BOM (Browser Object Model) - Contém objetos adicionais para manipular o browser,
+    |           exceto o documento HTML.
+    |           Exemplo: navigator permite obter informações do sistema.
+    |                    location permite ler URL atual e redirecionar para outra página
+    |
+    |_ JavaScript Core - Os mecanismos internos do JavaScript (sintaxe, arrays, objetos, classes, ect..)
+
+- Ex: javascript-dom-02
+
+
 
 
 
