@@ -38,6 +38,9 @@ O Modelo de Objeto de Documento (DOM) é uma interface de programação para doc
 - Ex: javascript-dom-02
 
 
+### 3 - INTERAÇÃO COM O DOM.
+- Ex: javascript-dom-03
+
 
 
 
