@@ -30,3 +30,14 @@ document.body.style.color = "#F0F8FF";
 //saudacao();
 
 //larguraTela();
+
+
+
+//=============BOM=============== 
+//alert(location.href);
+
+
+
+if(confirm('Deseja ir para o Google?')){
+    location.href = "https://www.google.com/"
+}
