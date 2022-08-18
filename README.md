@@ -55,8 +55,13 @@ O Modelo de Objeto de Documento (DOM) é uma interface de programação para doc
 <body> corresponde a document.body
 ```
 
+### 4 - DOCUMENT GET ELEMENTS BY.
+- Ex: javascript-dom-04
 
-
+- getElementById
+- getElementByName
+- getElementByTagName
+- getElementByClassName
 
 
 
