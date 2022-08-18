@@ -49,8 +49,10 @@ O Modelo de Objeto de Documento (DOM) é uma interface de programação para doc
 
 ```txt
 <html> corresponde a document.documentElemente
-<body> corresponde a document.body
+
 <head> corresponde a document.head
+
+<body> corresponde a document.body
 ```
 
 
