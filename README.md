@@ -66,6 +66,12 @@ Vamos ver algumas curiosidades que são sempre importantes conhecer.
   - `getElementByClassName`
 
 
+### 5 - DOCUMENT QUERY SELECTOR.
+- Ex: javascript-dom-05
+
+  - `querySelector`
+  - `querySelectorAll`
+
 
 
 
