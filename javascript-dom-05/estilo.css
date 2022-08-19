@@ -1,3 +1,14 @@
 #segundo {
     color: red;
 }
+
+.primeiro-div {
+    font-weight: bold;
+    font-size: 16px;
+    color: blue;
+}
+
+ul > li:last-child {
+    font-weight: bolde;
+    color: green;
+}
