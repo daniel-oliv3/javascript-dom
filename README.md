@@ -72,7 +72,8 @@ Vamos ver algumas curiosidades que são sempre importantes conhecer.
   - `querySelector`
   - `querySelectorAll`
 
-
+### 6 - EXERCÍCIOS COM ELEMENTOS DE HTML - PARTE 1
+- Ex: javascript-dom-06
 
   
 
