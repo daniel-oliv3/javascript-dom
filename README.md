@@ -85,7 +85,8 @@ Vamos ver algumas curiosidades que são sempre importantes conhecer.
 ### 8 - MAIS EXERCÍCIOS E INTRODUÇÃO AOS EVENTOS.
 - Ex: javascript-dom-08
 
-
+### 9 - FUNÇÕES RELACIONADAS COM ATRIBUTOS.
+- Ex: javascript-dom-09
 
 
 
