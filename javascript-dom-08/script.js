@@ -9,10 +9,18 @@
 //executar();*/
 
 
+/*function executar(){
+    let e = document.querySelector("#titulo");
+    e.innerText = "Novo Titulo!";
+    e.style.color = "blue";
+}*/
+
+
+//alterando o texto ao clicar na imagem
 function executar(){
     let e = document.querySelector("#titulo");
     e.innerText = "Novo Titulo!";
-    e.getElementsByClassName.color = "blue";
+    e.style.color = "blue";
 }
 
 
