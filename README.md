@@ -72,16 +72,18 @@ Vamos ver algumas curiosidades que são sempre importantes conhecer.
   - `querySelector`
   - `querySelectorAll`
 
-### 6 - EXERCÍCIOS COM ELEMENTOS DE HTML - PARTE 1
+### 6 - EXERCÍCIOS COM ELEMENTOS DE HTML - PARTE 1.
 - Ex: javascript-dom-06
 
   - `innerHTML`
   - `outerHTML`
   - `innerText`
 
-### 7 -  EXERCÍCIOS COM ELEMENTOS DE HTML - PARTE 2
+### 7 -  EXERCÍCIOS COM ELEMENTOS DE HTML - PARTE 2.
 - Ex: javascript-dom-07
 
+### 8 - MAIS EXERCÍCIOS E INTRODUÇÃO AOS EVENTOS.
+- Ex: javascript-dom-08
 
 
 
