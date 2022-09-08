@@ -1,13 +1,18 @@
 
 //* ======================================================
-let elemento = document.querySelector(".noticia > h1");
+//Atributos
 
-elemento.outerHTML = "<p>Novo Titulo</p>";
+//alterando a imagem com javascript
+let imagem = document.querySelector("#noticias");
+imagem.src = "img.png";
 
-console.log(elemento.outerHTML);
+console.log(imagem.alt);
+
+document.querySelector("#titulo").innerHTML = imagem.alt;
 
 
 
+//Operações no console
 
 
 
