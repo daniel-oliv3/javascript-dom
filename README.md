@@ -75,6 +75,10 @@ Vamos ver algumas curiosidades que são sempre importantes conhecer.
 ### 6 - EXERCÍCIOS COM ELEMENTOS DE HTML - PARTE 1
 - Ex: javascript-dom-06
 
+  - `innerHTML`
+  - `outerHTML`
+  - `innerText`
+
   
 
 
