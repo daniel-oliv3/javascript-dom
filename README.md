@@ -79,8 +79,8 @@ Vamos ver algumas curiosidades que são sempre importantes conhecer.
   - `outerHTML`
   - `innerText`
 
-  
-
+### 7 -  EXERCÍCIOS COM ELEMENTOS DE HTML - PARTE 2
+- Ex: javascript-dom-07
 
 
 
