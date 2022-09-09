@@ -93,8 +93,8 @@ Vamos ver algumas curiosidades que são sempre importantes conhecer.
   - `setAttribute`
   - `removeAttribute`
 
-
-
+### 10 - ADICIONAR NOVO ELEMENTO AO HTML.
+- Ex: javascript-dom-10
 
 
 
