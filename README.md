@@ -88,7 +88,10 @@ Vamos ver algumas curiosidades que são sempre importantes conhecer.
 ### 9 - FUNÇÕES RELACIONADAS COM ATRIBUTOS.
 - Ex: javascript-dom-09
 
-
+  - `hasAttribute`
+  - `getAttribute`
+  - `setAttribute`
+  - `removeAttribute`
 
 
 
