@@ -1,20 +1,17 @@
 
 
 
-.caixa {
-    font-family: Arial, HElvetica, sans-serif;
+.container {
+    //font-family: Arial, HElvetica, sans-serif;
     margin: 50px auto;
-    width: 400px;
+    //width: 400px;
     padding: 20px;
     border: 1px solid gray;
-    text-align: center;
+    //text-align: center;
 }
 
 
-.alerta {
-    padding: 5px;
-    text-align: center;
-    background-color: rgb(255, 0, 0);
+p {
+    background-color: red;
     color: white;
-    font-weight: bolder;
 }

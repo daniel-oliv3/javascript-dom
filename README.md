@@ -96,8 +96,8 @@ Vamos ver algumas curiosidades que são sempre importantes conhecer.
 ### 10 - ADICIONAR NOVO ELEMENTO AO HTML.
 - Ex: javascript-dom-10
 
-
-
+### 11 - MÉTODOS PARA ADICIONAR ELEMENTOS À DOM PARTE 1.
+- Ex: javascript-dom-11
 
 
 
