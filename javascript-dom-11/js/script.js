@@ -1,36 +1,27 @@
 /*1==================================================*/
 
-function executar(){
-    //cria o elemento
-    let novo_elemento = document.createElement('p');
-    novo_elemento.className = "alerta";
-    novo_elemento.innerText = "Esta é uma mensagem de alerta!";
+let div = document.querySelector('.container');
 
 
-    //adicionar o novo elemento ao div existente
-    let elemento = document.querySelector(".caixa");
-    elemento.appendChild(novo_elemento);
-}
+//Adicionando texto antes da div
+div.before('AAAA');
+
+//Adicionando dentro do  div, mais no inicio
+div.prepend('BBBBB');
+
+//Adicionando dentro do  div, mais no fim
+div.append('CCCCC');
 
 
-/*2==================================================*/
-
-/*
-    //cria o elemento
-    let novo_elemento = document.createElement('p');
-    novo_elemento.className = "alerta";
-    novo_elemento.innerText = "Esta é uma mensagem de alerta!";
+//Adicionando depois da div
+div.after('DDDDD');
 
 
-    //adicionar o novo elemento ao div existente
-    let elemento = document.querySelector(".caixa");
-    elemento.appendChild(novo_elemento);
-    elemento.appendChild(novo_elemento.cloneNode(true));
-    elemento.appendChild(novo_elemento.cloneNode(true));
-    elemento.appendChild(novo_elemento.cloneNode(true));
-    elemento.appendChild(novo_elemento.cloneNode(true));
 
-*/
+
+
+
+
 
 
 
